@@ -8,8 +8,8 @@ def fizzbuzz(int)
     puts"Buzz"
     "Buzz"
   elsif int % 3 == 0
-    puts "FizzBuzz"
-    "FizzBuzz"
+    puts "Fizz"
+    "Fizz"
   else
     nil
   end
