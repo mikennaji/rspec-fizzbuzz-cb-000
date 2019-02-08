@@ -7,8 +7,7 @@ def fizzbuzz(int)
   if int % 5 == 0 # if the number int is divisible by 3
     "Buzz" # Go fizz
   end
-  elsif condition
-   int % 3 == 0 && int % 5 ==0 # if the number int is divisible by 3
+  elsif int % 3 == 0 && int % 5 ==0 # if the number int is divisible by 3
     "FizzBuzz" # Go fizz
   end
     end
