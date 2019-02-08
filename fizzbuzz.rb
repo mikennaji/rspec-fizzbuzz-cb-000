@@ -9,5 +9,5 @@ def fizzbuzz(int)
     puts"Buzz"
     "Buzz"
   end
-  
+
 end
