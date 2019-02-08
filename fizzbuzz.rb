@@ -10,7 +10,7 @@ def fizzbuzz(int)
     "Buzz"
   end
   if int % 3 == 0 && int % 5 ==0 # if the number int is divisible by 3
-    puts"FizzBuzz" 
+    puts"FizzBuzz"
     "FizzBuzz"# Go fizz
   end
 end
