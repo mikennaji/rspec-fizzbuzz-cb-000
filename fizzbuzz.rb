@@ -5,4 +5,9 @@ def fizzbuzz(int)
     puts"Fizz"
     "Fizz" # Go fizz
   end
+  elsif int % 5 == 0
+    puts"Buzz"
+    "Buzz"
+  end
+  
 end
