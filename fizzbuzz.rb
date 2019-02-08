@@ -2,12 +2,15 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(int)
   if int % 3 == 0 # if the number int is divisible by 3
-    puts"Fizz" # Go fizz
+    puts"Fizz"
+    "Fizz" # Go fizz
   end
   if int % 5 == 0 # if the number int is divisible by 3
     puts"Buzz" # Go fizz
+    "Buzz"
   end
   if int % 3 == 0 && int % 5 ==0 # if the number int is divisible by 3
-    puts"FizzBuzz" # Go fizz
+    puts"FizzBuzz" 
+    "FizzBuzz"# Go fizz
   end
 end
